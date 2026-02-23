@@ -57,10 +57,10 @@ Então a história vai “pulando” de nó em nó.
 ## 🖼️ Interface
 
 ### Tela principal
-<img src="assets/screenshot-app.png" width="800" alt="Interface do validador" />
+<img src="https://imgur.com/a/opQhNZp" width="800" alt="Interface do validador" />
 
 ### Exemplo de erro apontando Path + Linha
-<img src="assets/screenshot-error.png" width="800" alt="Relatório com erro" />
+<img src="https://imgur.com/a/yAeOXVF" width="800" alt="Relatório com erro" />
 
 ---
 
@@ -71,18 +71,3 @@ Então a história vai “pulando” de nó em nó.
 - **JSON** (estrutura dos diálogos)
 
 ---
-
-## 📁 Estrutura do projeto
-
-```text
-narrative_flow_checker/
-├─ assets/
-│  ├─ banner-anime.gif
-│  ├─ screenshot-app.png
-│  └─ screenshot-error.png
-├─ dialogue_validator.py
-├─ gui_app.py
-├─ dialogues.json
-├─ requirements.txt
-├─ README.md
-└─ .gitignore
