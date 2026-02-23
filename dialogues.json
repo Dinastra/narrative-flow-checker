@@ -1,0 +1,26 @@
+{
+  "start": "intro_01",
+  "flags": ["has_key"],
+  "nodes": {
+    "intro_01": {
+      "speaker": "Narrador",
+      "text": "Você acorda.",
+      "set_flags": ["has_key"],
+      "choices": [
+        { "text": "Levantar", "next": "roomm" }
+      ]
+    },
+    "room": {
+      "speaker": "Voz",
+      "text": "A porta está trancada.",
+      "choices": [
+        { "text": "Abrir", "next": "door", "requires": ["has_key"] }
+      ]
+    },
+    "door": {
+      "speaker": "Narrador",
+      "text": "Você saiu.",
+      "end": true
+    }
+  }
+}
