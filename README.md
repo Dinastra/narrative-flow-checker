@@ -4,7 +4,7 @@
 
 ### Validador de diálogos para jogos narrativos (RPGs de escolha / Visual Novels)
 
-<img src="assets/banner-anime.gif" width="700" alt="Banner anime" />
+<img src="https://i.pinimg.com/originals/69/ec/d7/69ecd7429fc8250cc12ef2ac9a8c68e3.gif" width="700" alt="Banner anime" />
 
 <br>
 
