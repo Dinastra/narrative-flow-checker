@@ -57,7 +57,7 @@ Então a história vai “pulando” de nó em nó.
 ## 🖼️ Interface
 
 ### Tela principal
-<img src="https://imgur.com/a/opQhNZp" width="800" alt="Interface do validador" />
+<img src="https://imgur.com/a/opQhNZp" width="700" alt="Interface do Validador" />
 
 ### Exemplo de erro apontando Path + Linha
 <img src="https://imgur.com/a/yAeOXVF" width="800" alt="Relatório com erro" />
